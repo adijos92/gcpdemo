@@ -1,0 +1,41 @@
+- Sql commands
+- what is use of DDL , DML
+- Difference beteen DDL and DML
+- What are set operatots? Explain it with proper defination.
+- difference decode func and case function.
+- What are sequence functions.
+-t1 	t2
+ 1	1
+ 0	1
+ 1	0
+ 0	1
+ 1	1
+	Null
+
+- From above two table t1 and t2 what will be output of all joins.
+- From above  two table t1 and t2 what will be output of all set operations.
+- table t1 having column A
+	A
+-------------------
+	F
+	M
+	M
+	F
+ ------------
+	from above table replace F with M , M with F without using case
+- string function operations with queries
+- Do you know about Connect by?
+- Select translate('abcdef','ABCDEF','123456') from dual; what will be result
+- Select replace('abcdefg','f') from dual; what will be result
+- Select substr('abcdefg',-2,3) from dual what will be result
+- Select substr('abcdefg',2,3) from dual; what will be result
+- write nth sal query
+- given string count the character 'a' 
+- delete duplicate records
+- display 1st day of year.
+- display the old employee from its joining date.
+- select 1 from emp - what will be output
+- department wise highest salary
+- Explain analytical function and it use.
+- Do you know know about PL
+- connect by 
